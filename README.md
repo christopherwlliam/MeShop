@@ -1,1 +1,1 @@
-# MeShop
+This project is the part of Data Structure course Assignment project. In this project we must create a program for Shop that can Insert Different item like Food, Health, and Digital where some items have expired date using C Language
